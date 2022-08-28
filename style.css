@@ -1,0 +1,30 @@
+.header-main-page {
+    text-align: center;
+    color: red;
+    background-color: black;
+    font-size: 90px;
+}
+
+.link-main-page {
+    color: brown;
+    background-color: bisque;
+    font-size: 45px;
+}
+
+.pizza-header,
+.pulled-chicken-header {
+    text-align: center;
+    color: green;
+    background-color: black;
+    font-size: 75px;
+}
+
+ul,
+ol {
+    background-color: beige;
+    color: black;
+}
+
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
